@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/translate_app/static/css/main.cfa62bed.css",
+    "main.js": "/translate_app/static/js/main.5b143240.js",
+    "index.html": "/translate_app/index.html",
+    "main.cfa62bed.css.map": "/translate_app/static/css/main.cfa62bed.css.map",
+    "main.5b143240.js.map": "/translate_app/static/js/main.5b143240.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa62bed.css",
+    "static/js/main.5b143240.js"
+  ]
+}
